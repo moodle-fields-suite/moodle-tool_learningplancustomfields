@@ -15,7 +15,7 @@ moodle-tool_learningplancustomfields
 * **Privacidade desde o projeto.** Os valores do plano pertencem ao dono do plano: são exportados e excluídos pela Privacy API, e excluídos junto com o usuário.
 * **Pronto para integrações.** O web service ``local_fieldssuite_get_values`` devolve os valores que o usuário pode ver.
 
-Faz parte da `Moodle Fields Suite <https://moodle-fields-suite.github.io>`_; requer o `local_fieldssuite <https://moodle-fields-suite.github.io/local_fieldssuite/>`_.
+Faz parte da `Moodle Fields Suite <https://moodle-fields-suite.github.io>`_; requer o `local_fieldssuite <https://moodle-fields-suite.github.io/moodle-local_fieldssuite/>`_.
 
 English version: `English <../en/index.html>`_.
 
@@ -31,4 +31,4 @@ English version: `English <../en/index.html>`_.
 Links
 -----
 
-* Código-fonte e issues: https://github.com/moodle-fields-suite/tool_learningplancustomfields
+* Código-fonte e issues: https://github.com/moodle-fields-suite/moodle-tool_learningplancustomfields

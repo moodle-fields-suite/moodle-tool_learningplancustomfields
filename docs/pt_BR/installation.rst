@@ -6,12 +6,12 @@ Requisitos
 
 * Moodle 4.5 LTS ou 5.3 LTS.
 * PHP suportado pela sua versão do Moodle.
-* `local_fieldssuite <https://moodle-fields-suite.github.io/local_fieldssuite/>`_, o plugin comum da Moodle Fields Suite (desde a 1.1.0). Instale-o antes, ou junto.
+* `local_fieldssuite <https://moodle-fields-suite.github.io/moodle-local_fieldssuite/>`_, o plugin comum da Moodle Fields Suite (desde a 1.1.0). Instale-o antes, ou junto.
 
 A partir de um arquivo ZIP
 --------------------------
 
-1. Baixe ``tool_learningplancustomfields-<versão>.zip`` nas `releases <https://github.com/moodle-fields-suite/tool_learningplancustomfields/releases>`_.
+1. Baixe ``tool_learningplancustomfields-<versão>.zip`` nas `releases <https://github.com/moodle-fields-suite/moodle-tool_learningplancustomfields/releases>`_.
 2. Acesse *Administração do site > Plugins > Instalar plugins*, envie o ZIP e siga os passos.
 3. Conclua a atualização em *Administração do site > Notificações*.
 
@@ -22,7 +22,7 @@ Copie o repositório para ``admin/tool/learningplancustomfields`` (``public/admi
 
 .. code-block:: bash
 
-   git clone https://github.com/moodle-fields-suite/tool_learningplancustomfields.git public/admin/tool/learningplancustomfields
+   git clone https://github.com/moodle-fields-suite/moodle-tool_learningplancustomfields.git public/admin/tool/learningplancustomfields
 
 Idiomas
 -------

@@ -15,7 +15,7 @@ moodle-tool_learningplancustomfields
 * **Privacy by design.** Plan values belong to the plan owner: they are exported and deleted through the Privacy API, and deleted with the user.
 * **Ready for integrations.** The ``local_fieldssuite_get_values`` web service returns the values the user can see.
 
-Part of the `Moodle Fields Suite <https://moodle-fields-suite.github.io>`_; requires `local_fieldssuite <https://moodle-fields-suite.github.io/local_fieldssuite/>`_.
+Part of the `Moodle Fields Suite <https://moodle-fields-suite.github.io>`_; requires `local_fieldssuite <https://moodle-fields-suite.github.io/moodle-local_fieldssuite/>`_.
 
 Versão em português: `Português (Brasil) <../pt-br/index.html>`_.
 
@@ -31,4 +31,4 @@ Versão em português: `Português (Brasil) <../pt-br/index.html>`_.
 Links
 -----
 
-* Source code and issues: https://github.com/moodle-fields-suite/tool_learningplancustomfields
+* Source code and issues: https://github.com/moodle-fields-suite/moodle-tool_learningplancustomfields
